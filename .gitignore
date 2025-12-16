@@ -55,3 +55,6 @@ pnpm-debug.log*
 *.obj
 *.opendb
 
+graphql.config.yml
+schema.graphql
+.graphqlconfig
